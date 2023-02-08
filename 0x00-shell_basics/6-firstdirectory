@@ -1,2 +1,2 @@
 #!/bin/bash
-mkir my_first_directory /tmp/
+mkir /tmp/my_first_directory
