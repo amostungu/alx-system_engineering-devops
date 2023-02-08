@@ -1,1 +1,1 @@
- prints the absolute path name of the current working directory
+describing what each script is doing
