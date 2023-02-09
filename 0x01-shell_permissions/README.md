@@ -1,1 +1,1 @@
-symbolic
+if only
