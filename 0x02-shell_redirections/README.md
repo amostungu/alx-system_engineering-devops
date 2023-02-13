@@ -1,1 +1,1 @@
-whatsnext
+hide
