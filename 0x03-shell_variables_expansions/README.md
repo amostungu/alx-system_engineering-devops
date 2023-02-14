@@ -1,1 +1,1 @@
-createglobal
+true
