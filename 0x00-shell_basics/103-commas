@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -p |,|
+ls -1a | sed 's/(.*)/1,/' | sed 's/^.$/./n&/' | sed 's/^..$/./n&/' | sort -d -f -k1.1,1.1 -k1.2n,1.2 -k1.2,1.2 | tr -d 'n' && echo
